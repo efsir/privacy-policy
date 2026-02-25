@@ -1,5 +1,5 @@
 Privacy Policy
-Last updated: January 22, 2026
+Last updated: February 24, 2026
 
 1. Introduction
 This privacy policy explains how the app ("MyPoly | Simply Words") handles user data.
@@ -41,6 +41,6 @@ If the App’s functionality changes in the future, this privacy policy will be 
 
 8. Contact
 If you have questions about this privacy policy, contact:
-efsirota@gmail.com
+mypolysimplywords@gmail.com
 
 

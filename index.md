@@ -1,8 +1,8 @@
 Privacy Policy
-Last updated: February 24, 2026
+Last updated: March 2, 2026
 
 1. Introduction
-This privacy policy explains how the app ("MyPoly | Simply Words") handles user data.
+This privacy policy explains how the app ("MyPoly | Vocabulary Builder") handles user data.
 The App is designed for language learning and voice‑based practice. It does not collect, store, share, or sell any personal information.
 
 2. Information We Do Not Collect

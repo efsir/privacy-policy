@@ -1,11 +1,10 @@
 {
   "latestVersion": "1.5.0",
   "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.companyname.learnlanguage",
-  "releaseNotes": "
-    1. New option to add random words, translations, and bilingual examples directly to notes.  
+  "releaseNotes": "1. New option to add random words, translations, and bilingual examples directly to notes.  
     2. New “Speak All” feature for words, translations, and notes in the Active Vocabulary topic.  
     3. Added a notification prompting users to update to the latest version.  
     4. Bug fixes and performance improvements.  
-    5. UI refinements for a smoother experience.
-"
+    5. UI refinements for a smoother experience."
+
 

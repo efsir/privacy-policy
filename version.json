@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.4.1",
-  "releaseNotes": "1. Speak words, translations, and notes in any topic.<br/> 2. Pause, resume, or stop speaking.<br/> 3. Highlight + auto‑scroll to the current spoken item.<br/> 4. Bug fixes and performance improvements.<br/> 5. Improved UI and smoother speaking mode",
+  "latestVersion": "1.5.0",
+  "releaseNotes": "1. Web-to-App Sync: Easily create vocabulary lists on our new website (https://mypolylearnlanguages.com) and use the new Bulk Import feature to scan the generated QR code!<br/>2. Topic Management: Added a highly requested "Delete All Words in Topic" option to clean up your lists instantly.<br/>3. Better Trial Limits: Increased the maximum number of words allowed per topic for trial users so you can explore more before upgrading.<br/>4. UI refinements for a smoother experience.",
   "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.companyname.learnlanguage",
   "iosStoreUrl": "https://apps.apple.com/app/idYOUR_APP_ID",
   "windowsStoreUrl": "https://apps.microsoft.com/store/detail/YOUR_APP_ID"

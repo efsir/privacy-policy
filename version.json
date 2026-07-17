@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.5.0",
-  "releaseNotes": "1. Web-to-App Sync: Easily create vocabulary lists on our new website (https://mypolylearnlanguages.com) and use the new Bulk Import feature to scan the generated QR code!<br/>2. Topic Management: Added a highly requested "Delete All Words in Topic" option to clean up your lists instantly.<br/>3. Better Trial Limits: Increased the maximum number of words allowed per topic for trial users so you can explore more before upgrading.<br/>4. UI refinements for a smoother experience.",
+  "latestVersion": "1.6.0",
+  "releaseNotes": "New Speak Text Page: Added a dedicated page that lets you type or sync text via 'QR Code Text' page on https://mypolylearnlanguages.com/ and listen to it in any supported language.",
   "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.companyname.learnlanguage",
   "iosStoreUrl": "https://apps.apple.com/app/idYOUR_APP_ID",
   "windowsStoreUrl": "https://apps.microsoft.com/store/detail/YOUR_APP_ID"

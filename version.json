@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.6.0",
-  "releaseNotes": "New Speak Text Page: Added a dedicated page that lets you type or sync text via 'QR Code Text' page on https://mypolylearnlanguages.com/ and listen to it in any supported language.",
+  "latestVersion": "2.0.0",
+  "releaseNotes": "Added Speak Document to read PDF/EPUB/TXT aloud sentence by sentence in any language. Pause, resume, stop, and auto‑continue from last spoken page or segment. Delete a language along with all words and translations. Added Polish, Ukrainian, and Turkish translations for new and random words.",
   "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.companyname.learnlanguage",
   "iosStoreUrl": "https://apps.apple.com/app/idYOUR_APP_ID",
   "windowsStoreUrl": "https://apps.microsoft.com/store/detail/YOUR_APP_ID"

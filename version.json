@@ -1,6 +1,6 @@
 {
-  "latestVersion": "2.0.1",
-  "releaseNotes": "Added Speak Document to read PDF/EPUB/TXT aloud sentence by sentence in any language. Pause, resume, stop, and auto‑continue from last spoken page or segment. Delete a language along with all words and translations. Added Polish, Ukrainian, and Turkish translations for new and random words.",
+  "latestVersion": "2.1.0",
+  "releaseNotes": "Live News Feed: Load and read the latest articles across various categories. Multi-Language Content: Switch between languages effortlessly. Speak Aloud: Listen to articles with high-quality text-to-speech—perfect for hands-free listening or language learning on the move. Performance improvements and bug fixes.",
   "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.companyname.learnlanguage",
   "iosStoreUrl": "https://apps.apple.com/app/idYOUR_APP_ID",
   "windowsStoreUrl": "https://apps.microsoft.com/store/detail/YOUR_APP_ID"

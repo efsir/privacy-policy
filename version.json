@@ -1,6 +1,6 @@
 {
-  "latestVersion": "2.1.0",
-  "releaseNotes": "Live News Feed: Load and read the latest articles across various categories. Multi-Language Content: Switch between languages effortlessly. Speak Aloud: Listen to articles with high-quality text-to-speech—perfect for hands-free listening or language learning on the move. Performance improvements and bug fixes.",
+  "latestVersion": "2.2.0",
+  "releaseNotes": "1. Live News Feed — Now updates more often and includes more categories for broader coverage. 2. Global Languages — Switch between languages instantly to practice reading in different dialects. 3. Speak Aloud — Improved stability and fixed playback issues for smoother hands‑free listening. 4. Performance Improvements & Bug Fixes — Faster loading and more reliable news retrieval.",
   "androidStoreUrl": "https://play.google.com/store/apps/details?id=com.companyname.learnlanguage",
   "iosStoreUrl": "https://apps.apple.com/app/idYOUR_APP_ID",
   "windowsStoreUrl": "https://apps.microsoft.com/store/detail/YOUR_APP_ID"
